@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "axios": "^0.21.2",
-    "vue": "^2.5.2",
+    "vue": "^3.2.47",
     "vue-router": "^3.0.1",
     "vue2-filters": "^0.3.0",
     "vuetify": "^1.0.0",
